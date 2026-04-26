@@ -1,22 +1,30 @@
-## Hi, I'm Gaurav 👋
+# Hi, I'm Gaurav Kumar
 
-🎓 3rd Year Student
-💻 Learning Development & Programming
-🚀 Trying to build real-world projects
+B.Tech student in Artificial Intelligence and Data Science with a focus on data analysis, visualization, and building practical applications.
 
-## 🔧 Skills
+## Skills
 
-* Java / Python / C++
-* HTML, CSS, JavaScript
-* Git & GitHub
+Python, Java
+NumPy, Pandas
+HTML, CSS
+Git, GitHub
 
-## 📌 What I'm Doing
+## Projects
 
-* Learning web development
-* Building projects
-* Improving problem-solving
+### Campus AI – Navigation Website
 
-## 📫 Connect with me
+Web-based platform to help students navigate campus facilities with a focus on usability and responsive design.
+
+## Experience
+
+Completed hands-on training in Python, SQL, data analysis, and machine learning.
+Worked on data cleaning, visualization, and basic model building.
+
+## Achievements
+
+Solved 100+ problems on LeetCode and HackerRank.
+
+## Connect with me
 
 * LinkedIn: https://www.linkedin.com/in/gaurav-kumar-953071291/
 
