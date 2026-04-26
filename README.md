@@ -1,4 +1,25 @@
-## Hi there 👋
+## Hi, I'm Gaurav 👋
+
+🎓 3rd Year Student
+💻 Learning Development & Programming
+🚀 Trying to build real-world projects
+
+## 🔧 Skills
+
+* Java / Python / C++
+* HTML, CSS, JavaScript
+* Git & GitHub
+
+## 📌 What I'm Doing
+
+* Learning web development
+* Building projects
+* Improving problem-solving
+
+## 📫 Connect
+
+* (Add LinkedIn later)
+
 
 <!--
 **Gauravch12211/Gauravch12211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
