@@ -16,9 +16,10 @@
 * Building projects
 * Improving problem-solving
 
-## 📫 Connect
+## 📫 Connect with me
 
-* (Add LinkedIn later)
+* LinkedIn: https://www.linkedin.com/in/gaurav-kumar-953071291/
+
 
 
 <!--
